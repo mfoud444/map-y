@@ -1,0 +1,17 @@
+node_modules
+trash
+build
+etc
+pnpm-lock.yaml
+dist
+etc
+.gitignore
+# .cursorignore
+.vscode
+.env
+.env.local
+har_and_cookies
+output
+*__pycache__
+android
+ios
