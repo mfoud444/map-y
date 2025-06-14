@@ -24,8 +24,8 @@ export default function Login() {
       <Link href="/email-signup" asChild>
         <Button
           label="Continue with Email"
-          className="mx-4 mt-4 bg-transparent py-3"
-          labelClassName="text-primary-500 text-lg"
+          className="mx-4 mt-4 bg-transparent py-3 text-primary-500 text-lg"
+
         />
       </Link>
     </>
