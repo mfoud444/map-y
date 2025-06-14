@@ -86,13 +86,13 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.delivery.staging'
+    namespace 'com.delivery.development'
     defaultConfig {
-        applicationId 'com.delivery.staging'
+        applicationId 'com.delivery.development'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
-        versionName "0.0.1"
+        versionName "0.0.2"
     }
     signingConfigs {
         debug {

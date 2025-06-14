@@ -1,4 +1,4 @@
-package com.delivery.staging
+package com.delivery.development
 
 import android.app.Application
 import android.content.res.Configuration

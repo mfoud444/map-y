@@ -1,4 +1,4 @@
-package com.delivery.staging
+package com.delivery.development
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build
